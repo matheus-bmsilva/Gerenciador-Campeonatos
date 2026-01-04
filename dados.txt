@@ -1,0 +1,6 @@
+1,Yuri Alberto,theProt4,Cortinas,Mid
+2,David Rodrigues,theGolias,Cortinas,Jungle
+3,Maria Joaquina,Ciril4,d3Sumildaas,Suporte
+9,Ronaldo,Shining_Tim4o,Flamengoo,ADC
+6,Haland,Hat_Tr1ck,Noruega,Mid
+10,Luis,Prof,Lendas,ADC
